@@ -57,6 +57,6 @@ const capitalize = (str, lowerRest = false) => str.slice(0, 1).toUpperCase() + (
 
 
 附录：  
-[1] 原文请参考：https://github.com/Chalarangele/30-seconds-of-code#anagrams-of-string-with-duplicates
+[1] 原文请参考：https://github.com/Chalarangelo/30-seconds-of-code
 
 
